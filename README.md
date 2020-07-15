@@ -1,5 +1,7 @@
 <h2> Sampling Ocean Measurement and GCM Data </h2>
 
+![Test Image 1](measurement_data_distribution.png)
+
 In the following notebook, I build a binary sampling matrix using the observational measurements of various oceanic data compiled by Martiny & Flombaum (2020), [available at this link](https://www.bco-dmo.org/dataset/793451). 
 
 The sampling matrix is three dimensional, covering two dimensions of geospatial coordinates, and one dimension of time. On completion, the matrix will contain ```1's``` where observational data exists (spatially and temporally) and ```0's``` where it doesn't, allowing us to sample from the output of model simulations accordingly. 
