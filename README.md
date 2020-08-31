@@ -1,5 +1,4 @@
 <h2> Sampling Ocean Measurement and GCM Data </h2>
-
 ![Test Image 1](animated_measurements.gif)
 
 In the following notebook, I build a binary sampling matrix using the observational measurements of various oceanic data compiled by Martiny & Flombaum (2020), [available at this link](https://www.bco-dmo.org/dataset/793451). 
