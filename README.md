@@ -10,3 +10,5 @@ In order for this process to be effective, I first ensure that measurement coord
 
 I begin with cursory overview of the dataset, to get aquainted with its shape, size, and variables, and to ensure the datatypes are fit for our purposes. Once this has been completed, I perform a closer analysis of the data themselves, removing e.g. clear outliers or unphysical entries. Finally, I build the binary sampling matrix. 
 
+NOTE: The code in this notebook requires refactoring in places...!
+
